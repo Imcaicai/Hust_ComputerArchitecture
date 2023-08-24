@@ -1,2 +1,2 @@
-# Hust_ComputerArchitecture
-华中科技大学_计算机系统结构
+# Hust_Computer_Architecture
+【华中科技大学】计算机系统结构
